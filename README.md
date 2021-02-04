@@ -11,7 +11,7 @@
 
 - 🤔 I’m looking for help with opportunities in Junior front-end development roles to help build my career as a software developer.
 
-- 💬 Ask me about business development, User experience, marketing and Rugby and I would love talk about it for hours.
+- 💬 Ask me about business development, User experience, marketing and Rugby and I would engage you for hours.
 
 - 📫 How to reach me: musahluqman@gmail.com 
 
