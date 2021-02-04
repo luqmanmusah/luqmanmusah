@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Luqman 👋
 
-<!--
-**luqmanmusah/luqmanmusah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![luqmanspeaks](https://user-images.githubusercontent.com/22328716/106826667-45088c80-667f-11eb-9064-867d6845453a.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on becoming a full-stack developer.
+
+- 🌱 I’m currently learning front-end technologies using Javascript, React and Redux.
+
+- 👯 I’m looking to collaborate on interesting startup ideas.
+
+- 🤔 I’m looking for help with opportunities in Junior front-end development roles to help build my career as a software developer.
+
+- 💬 Ask me about business development, User experience, marketing and Rugby and I would love talk about it for hours.
+
+- 📫 How to reach me: musahluqman@gmail.com 
+
+- ⚡ Fun fact: Played professional rugby and I'm not just an amazing full-stack developer but also a great sales person.
+
+- ✨ I spent the last 3 years building an amazing software tool([Joluud](wwww.joluud.com)) for facility manager. 
+
