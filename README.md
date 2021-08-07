@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on becoming a full-stack developer.
 
-- 🌱 I’m currently learning front-end technologies using Javascript, React and Redux.
+- 🌱 I’m currently learning front-end technologies using JavaScript, React and Redux.
 
 - 👯 I’m looking to collaborate on interesting startup ideas.
 
