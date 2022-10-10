@@ -3,9 +3,9 @@
 ![luqmanspeaks](https://user-images.githubusercontent.com/22328716/106826667-45088c80-667f-11eb-9064-867d6845453a.png)
 
 
-- 🔭 I’m currently working on becoming a full-stack developer.
+- 🔭 I’m a full-stack developer.
 
-- 🌱 I’m currently learning front-end technologies using JavaScript, React and Redux.
+- 🌱 I’m currently refreshing my skills by learning technologies using JavaScript, React, Node and Redux.
 
 - 👯 I’m looking to collaborate on interesting startup ideas.
 
